@@ -6,7 +6,7 @@
 }
 body
 {
-    background:url(../images/Lights.jpg) no-repeat center center fixed;
+    background:url(./Lights.jpg) no-repeat center center fixed;
     background-size:cover;
 }
 .card
